@@ -4,6 +4,7 @@ This is the final project. It represents a smart house with its smart tools:
   - an automated lamp
   - a meteo station
   - a watch
+
 The client-server represents the owner of the house.
 
 ## The testbed:
